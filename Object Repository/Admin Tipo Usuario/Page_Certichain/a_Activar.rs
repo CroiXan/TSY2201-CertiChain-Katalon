@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Activar</name>
+   <tag></tag>
+   <elementGuidId>5f75cce6-9269-4fda-84f1-96219a1cea88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-tabpanel[@id='pn_id_6_tabpanel_1']/app-admin-categoria/p-card/div/div/div/div/section/p-card/div/div/div/table/tbody/tr[5]/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;686edc7f0fefb7d9e989bbd8 TipoUsuario_ Inactivo Activar&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3124cac-7d0a-41d0-ac4c-4990a4e8e600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>9c71a918-4fec-4a92-b732-04b887417180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Activar </value>
+      <webElementGuid>403521cb-31b2-498d-9b36-4f050c588180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_6_tabpanel_1&quot;)/app-admin-categoria[@class=&quot;ng-star-inserted&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;table-card&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]/a[1]</value>
+      <webElementGuid>e7de240a-a38e-44e1-8c5b-1c6c881da602</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_1']/app-admin-categoria/p-card/div/div/div/div/section/p-card/div/div/div/table/tbody/tr[5]/td[4]/a</value>
+      <webElementGuid>adf11a2e-561c-4573-b509-f54c7c0dddcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Activar')])[2]</value>
+      <webElementGuid>a155c6cf-75e7-4b03-82ea-04fa0ae9b6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inactivo'])[2]/following::a[1]</value>
+      <webElementGuid>a7ef7ec7-8108-41f3-8ac2-a88e65bc2846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TipoUsuario_'])[1]/following::a[1]</value>
+      <webElementGuid>de36b9be-413a-44b7-ae86-f032250af088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubTipo Usuario'])[1]/preceding::a[1]</value>
+      <webElementGuid>a17edfcf-199a-4c4e-bb06-d1645ae4509e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crear'])[2]/preceding::a[1]</value>
+      <webElementGuid>ada40ab1-1805-48f5-9930-72b0ba5bb53a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>3aef3ecd-c8a6-4471-acd4-9cf27a61ec2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[4]/a</value>
+      <webElementGuid>a949dabf-2ebd-48e4-8008-146a0750124d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' Activar ' or . = ' Activar ')]</value>
+      <webElementGuid>920bc331-6ae8-4da3-880e-b8b02e756c1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

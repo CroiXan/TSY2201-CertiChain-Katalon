@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_--Seleccione--AdminUsuarioInstitucion</name>
+   <tag></tag>
+   <elementGuidId>8a06d3d3-913a-482f-af18-e82f244b5cb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-tabpanel[@id='pn_id_6_tabpanel_0']/app-admin-usuarios/div/section[2]/form/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Tipo--Seleccione--AdminUsuarioInstitucion$/ >> internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>62843155-5e02-4074-b99b-96d0aa279015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>tipo</value>
+      <webElementGuid>d7e33a8b-2e3c-4bea-b848-5576ed64f0f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>16b98188-a41a-46b9-a53e-557231627c03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>--Seleccione--AdminUsuarioInstitucion</value>
+      <webElementGuid>4e5447ce-3b31-411e-b2ea-28688ce3ff07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_6_tabpanel_0&quot;)/app-admin-usuarios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;panel ng-star-inserted&quot;]/form[@class=&quot;form-stack ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;field&quot;]/select[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>aeefcaed-614c-4dfc-a1f5-01ac9df76e4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_0']/app-admin-usuarios/div/section[2]/form/div[2]/select</value>
+      <webElementGuid>c8ef6ee2-39bb-4650-9465-74e5c2a43603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo'])[2]/following::select[1]</value>
+      <webElementGuid>6d0787a7-1c51-48c9-934a-48e69f268fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[3]/following::select[1]</value>
+      <webElementGuid>893d667b-6e59-4ab4-a042-b3069a77acc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubTipo'])[1]/preceding::select[1]</value>
+      <webElementGuid>24a9687a-c9ca-4d0e-a6c2-bb3f2735b82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[10]/preceding::select[2]</value>
+      <webElementGuid>021d80be-ae6d-43b2-9788-33e5a9981ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>8dfb48b4-a183-4e60-8319-c331477c0a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '--Seleccione--AdminUsuarioInstitucion' or . = '--Seleccione--AdminUsuarioInstitucion')]</value>
+      <webElementGuid>53449250-df56-43b3-9b1f-7a6aa10d8000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

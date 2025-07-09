@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Desactivar Activar Usuario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>218ea3c4-fe87-49d0-abdd-597fc0bec81a</testCaseGuid>
+</TestCaseEntity>

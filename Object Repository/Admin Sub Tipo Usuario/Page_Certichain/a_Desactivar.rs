@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Desactivar</name>
+   <tag></tag>
+   <elementGuidId>c0f1e1da-41c0-48d9-bafb-91ea92e510d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-tabpanel[@id='pn_id_6_tabpanel_1']/app-admin-categoria/p-card/div/div/div/div/section[2]/p-card/div/div/div/table/tbody/tr[6]/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;686ede1a0fefb7d9e989bbda SubTipo_ Activo Desactivar&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc93a9c7-78f0-41e2-b05a-d1565109d443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>37b8781f-8551-4e5e-894b-2b24d6f41957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Desactivar </value>
+      <webElementGuid>70556124-b28d-46d5-aa42-0eec55c59cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_6_tabpanel_1&quot;)/app-admin-categoria[@class=&quot;ng-star-inserted&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;table-card&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]/a[1]</value>
+      <webElementGuid>803886c1-7567-4cae-9bc1-b920c7b47f84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_1']/app-admin-categoria/p-card/div/div/div/div/section[2]/p-card/div/div/div/table/tbody/tr[6]/td[4]/a</value>
+      <webElementGuid>714338b8-f577-4064-9768-6dbf5ab192bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Desactivar')])[10]</value>
+      <webElementGuid>3bc945ce-1c79-4473-a061-bcda5f43ee30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[10]/following::a[1]</value>
+      <webElementGuid>b27d5c0f-0953-4a85-b958-ea50c0901743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SubTipo_'])[1]/following::a[1]</value>
+      <webElementGuid>625fa00e-929f-411e-86c0-db6a01427fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[12]</value>
+      <webElementGuid>f368d2d9-73c0-4def-a5ce-adad88166df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/p-card/div/div/div/table/tbody/tr[6]/td[4]/a</value>
+      <webElementGuid>b810e884-da48-494e-ac18-0e19b3d98081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' Desactivar ' or . = ' Desactivar ')]</value>
+      <webElementGuid>95f0c198-e403-4b68-a234-779535d8a7e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

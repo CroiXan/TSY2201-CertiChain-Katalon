@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin - Gestionar Sub Tipo de Usuario</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>928d014b-c4fa-4256-86e8-66c018a57c9f</testCaseGuid>
+</TestCaseEntity>
