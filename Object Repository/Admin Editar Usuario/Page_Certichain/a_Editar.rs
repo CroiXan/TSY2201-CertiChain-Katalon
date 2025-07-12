@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p-tabpanel[@id='pn_id_6_tabpanel_0']/app-admin-usuarios/div/section/table/tbody/tr[5]/td[4]/a</value>
+         <value>//table[@id='pn_id_3-table']/tbody/tr[4]/td[4]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=row[name=&quot;test5 Usuario Activo Editar | Desactivar&quot;i] >> internal:role=link >> nth=0</value>
+         <value>internal:role=row[name=&quot;test4 Institucion Activo Editar Desactivar&quot;i] >> internal:role=link >> nth=0</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>3831eed1-fb44-457e-926a-4734718413e2</webElementGuid>
+      <webElementGuid>40cbd0e1-0885-4cba-b421-d9665e950bb4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>6a7314f8-a04d-4d28-a9e8-3f385ff83716</webElementGuid>
+      <webElementGuid>9a3886e2-ff34-4aab-bccc-ed3b219a3339</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,18 +45,98 @@
       <name>text</name>
       <type>Main</type>
       <value>Editar</value>
-      <webElementGuid>2c81fbb3-1890-431f-b2d3-fb47aac68eee</webElementGuid>
+      <webElementGuid>29e443da-52b9-44c3-9910-5fe621aacaaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_6_tabpanel_0&quot;)/app-admin-usuarios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;panel wide&quot;]/table[1]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[4]/a[1]</value>
-      <webElementGuid>9b563221-088d-4632-b707-ea9497343d5b</webElementGuid>
+      <value>id(&quot;pn_id_3-table&quot;)/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;p-link ng-star-inserted&quot;]</value>
+      <webElementGuid>c2385e8e-7119-4e79-9651-4f4a4777539f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-link ng-star-inserted</value>
+      <webElementGuid>e1a0906d-4d39-40f8-9a36-ae65595d38b7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pn_id_3-table']/tbody/tr[4]/td[4]/a</value>
+      <webElementGuid>78a1b1db-31af-43aa-bdc2-58dd8930f6aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Editar')])[4]</value>
+      <webElementGuid>12906acc-fb2a-4745-b0b7-5ea93f84189e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[4]/following::a[1]</value>
+      <webElementGuid>7059e4e7-c0be-477b-a043-a949d02af29e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institucion'])[1]/following::a[1]</value>
+      <webElementGuid>3dafebda-8805-4a5a-addb-cd38b2ebdbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test5'])[1]/preceding::a[2]</value>
+      <webElementGuid>6f5b8ea9-e988-41d6-bda5-d8560d1dedf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario'])[1]/preceding::a[2]</value>
+      <webElementGuid>d16905a0-0320-44ba-9e86-b7c1f73683a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[7]</value>
+      <webElementGuid>df87647c-169c-469e-96c6-855e38faeea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[4]/a</value>
+      <webElementGuid>bf366276-dd53-45ac-80e0-dfacb462f769</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Editar' or . = 'Editar')]</value>
+      <webElementGuid>52f448cd-b7f1-4921-9478-f5ba0ed4aebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -110,13 +190,5 @@
       <type>Main</type>
       <value>//tr[5]/td[4]/a</value>
       <webElementGuid>ab1ab655-8354-4d3a-9ef3-29b8fe9dc02d</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = '#' and (text() = 'Editar' or . = 'Editar')]</value>
-      <webElementGuid>f69e5011-a501-461a-afd0-6f653baa1942</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

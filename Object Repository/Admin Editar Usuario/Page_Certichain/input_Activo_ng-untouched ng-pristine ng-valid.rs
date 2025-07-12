@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.field.switch > input.ng-untouched.ng-pristine.ng-valid</value>
+         <value>div.flex.align-items-center > input.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ec494817-c009-45d7-89b4-6de7c5447cd7</webElementGuid>
+      <webElementGuid>c443592b-5bdd-44b9-9932-764b8991d3ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>af5eadaf-f3f9-4476-ab37-bac86fca305a</webElementGuid>
+      <webElementGuid>7248ea81-af1d-4de0-b8f4-7ab9dbac5458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>activo</value>
-      <webElementGuid>bf034240-7545-416f-b492-664d66b99de9</webElementGuid>
+      <webElementGuid>c693bc83-89e4-4f96-aba2-b5458a37efc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,15 +53,23 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>3d4587de-1eba-4a9d-9edb-0ffcaf63f998</webElementGuid>
+      <webElementGuid>55e10727-5311-4400-a3ba-1551e1c64585</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_6_tabpanel_0&quot;)/app-admin-usuarios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;panel ng-star-inserted&quot;]/form[@class=&quot;form-stack ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;field switch&quot;]/input[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>9496e27a-f1b6-408a-8527-e399babfa886</webElementGuid>
+      <value>id(&quot;pn_id_6_tabpanel_0&quot;)/app-admin-usuarios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid ng-star-inserted&quot;]/div[@class=&quot;col-12&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;grid&quot;]/form[@class=&quot;grid w-full ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;col-12 md:col-6&quot;]/div[@class=&quot;flex align-items-center&quot;]/input[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>7cfc8d0b-4bad-4229-9db8-414564f42372</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>activo</value>
+      <webElementGuid>cd66a1cb-a88e-4895-8bc9-89c8061aff3f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +77,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@type='checkbox']</value>
-      <webElementGuid>90599f81-589e-4091-84ce-1bd731357932</webElementGuid>
+      <webElementGuid>493fa558-bc1e-45d2-b98a-809e54e17660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_0']/app-admin-usuarios/div[2]/div/p-card/div/div/div/div/form/div[4]/div/input</value>
+      <webElementGuid>cb28ce4a-b716-4b53-a0f8-a2c2c32389d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/input</value>
+      <webElementGuid>7baa5dee-2484-43c7-9c30-925376951097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox']</value>
+      <webElementGuid>f99eaed2-c81d-4a34-9762-e751dfa51cd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,13 +118,5 @@
       <type>Main</type>
       <value>//div[4]/input</value>
       <webElementGuid>ba297e79-0788-49eb-8197-2f3fd7315d26</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@type = 'checkbox']</value>
-      <webElementGuid>77cfaf8b-67aa-4f0d-933b-a4bb8819713e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

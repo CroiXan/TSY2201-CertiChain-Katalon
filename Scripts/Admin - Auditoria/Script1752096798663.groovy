@@ -67,4 +67,4 @@ WebUI.delay(2)
 
 WebUI.takeScreenshot()
 
-
+WebUI.closeBrowser()

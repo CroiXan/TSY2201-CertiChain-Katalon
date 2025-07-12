@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.p-ripple.p-button.p-component.danger</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[3]</value>
+         <value>(//button[@type='button'])[8]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>dae3920f-4ec6-4d84-9c63-dc596975112c</webElementGuid>
+      <webElementGuid>13a85df1-abff-47b3-b16e-6b7aa9bcbf97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e9558645-00dc-4926-8442-4ed240e35470</webElementGuid>
+      <webElementGuid>757d03dd-a986-45a5-a138-4841b731476d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,18 +45,98 @@
       <name>text</name>
       <type>Main</type>
       <value>Cancelar</value>
-      <webElementGuid>3c1c58a0-a8d7-4909-a5ba-b208adb0a6b5</webElementGuid>
+      <webElementGuid>31c8f36a-a006-4660-a01f-1e4ce9ebb953</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_6_tabpanel_0&quot;)/app-admin-usuarios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;panel ng-star-inserted&quot;]/form[@class=&quot;form-stack ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;actions&quot;]/button[2]</value>
-      <webElementGuid>97058638-4fd8-43ec-81e2-fc8f5938733e</webElementGuid>
+      <value>id(&quot;pn_id_6_tabpanel_0&quot;)/app-admin-usuarios[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid ng-star-inserted&quot;]/div[@class=&quot;col-12&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;grid&quot;]/form[@class=&quot;grid w-full ng-valid ng-untouched ng-pristine&quot;]/div[@class=&quot;col-12 flex justify-content-end gap-2&quot;]/custom-button[2]/p-button[1]/button[@class=&quot;p-ripple p-button p-component danger&quot;]</value>
+      <webElementGuid>97f6b915-bbc1-4948-a073-3f39372f966f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-button p-component danger</value>
+      <webElementGuid>f97d9a3e-852b-497a-9186-6aa1e0cc5fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>811ecf7d-efa4-4d27-88de-2ead8bfa2265</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c56ab1f7-2343-42d1-84dd-35a113013ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>fefb37c7-3633-427d-8f2b-a6dfc8b750cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>ce15d456-4e6f-4fb2-83c1-baf889decad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_0']/app-admin-usuarios/div[2]/div/p-card/div/div/div/div/form/div[5]/custom-button[2]/p-button/button</value>
+      <webElementGuid>d507a3b9-36d1-4484-89f8-e6219584e0af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar Cambios'])[1]/following::button[1]</value>
+      <webElementGuid>5e0a9ab0-8eeb-4ebe-8f67-9ff1f1228a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[7]/following::button[2]</value>
+      <webElementGuid>c168e693-e66d-4d59-b77d-2a03bb34644d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//custom-button[2]/p-button/button</value>
+      <webElementGuid>a207ad1b-07d3-4b43-adeb-8120fed14e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancelar' or . = 'Cancelar')]</value>
+      <webElementGuid>9f861b8f-2282-4481-9ec6-ad4f26e0102b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -70,14 +150,6 @@
       <type>Main</type>
       <value>//p-tabpanel[@id='pn_id_6_tabpanel_0']/app-admin-usuarios/div/section[2]/form/div[5]/button[2]</value>
       <webElementGuid>5795b3c9-fbfe-4c55-bdd0-a78e1d330378</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplicar Cambios'])[1]/following::button[1]</value>
-      <webElementGuid>aacf568a-3356-4ed7-9d44-3151e7222f2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,13 +174,5 @@
       <type>Main</type>
       <value>//div[5]/button[2]</value>
       <webElementGuid>9d732b64-ed64-471d-b660-7de4d23cc043</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Cancelar' or . = 'Cancelar')]</value>
-      <webElementGuid>51da8b39-76fd-4b6b-b784-5584929cc64f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

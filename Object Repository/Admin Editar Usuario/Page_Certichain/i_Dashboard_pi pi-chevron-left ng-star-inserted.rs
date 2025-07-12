@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>d38868c0-fab5-4e6a-842c-c162d5938813</webElementGuid>
+      <webElementGuid>e0521a08-38e9-4b84-a527-98963f93d671</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pi pi-chevron-left ng-star-inserted</value>
-      <webElementGuid>651d6ebb-396b-408e-893d-75e6aa2a0f8e</webElementGuid>
+      <webElementGuid>d21f2b27-24d4-4555-916d-02dc514a32f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container sidebar-open&quot;]/button[@class=&quot;toggle-btn&quot;]/i[@class=&quot;pi pi-chevron-left ng-star-inserted&quot;]</value>
-      <webElementGuid>5eccdd7b-1c5c-49f4-af01-074d0b5fef03</webElementGuid>
+      <webElementGuid>7188bfed-c640-4168-92e6-589c51492e3c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>a750020a-b615-4fd8-9598-3cc21872c07a</webElementGuid>
+      <webElementGuid>6d456a07-b8ae-415b-b85d-6d4c01712a24</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

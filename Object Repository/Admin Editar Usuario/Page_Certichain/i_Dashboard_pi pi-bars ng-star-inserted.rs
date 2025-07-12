@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Dashboard_toggle-btn</name>
+   <name>i_Dashboard_pi pi-bars ng-star-inserted</name>
    <tag></tag>
-   <elementGuidId>1923015e-0a41-43fa-854d-e851b99066f4</elementGuidId>
+   <elementGuidId>85e0d684-416f-4d69-aa1f-b9cb1da08541</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.toggle-btn</value>
+         <value>i.pi.pi-bars.ng-star-inserted</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::button[1]</value>
+         <value>//i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,39 +28,31 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>35529cd4-585f-41d9-88c6-94999cd67898</webElementGuid>
+      <value>i</value>
+      <webElementGuid>51fdfff5-4023-4919-bd29-f94a43cd8310</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>toggle-btn</value>
-      <webElementGuid>8496b7d2-6311-42e7-9d40-c1be58a30946</webElementGuid>
+      <value>pi pi-bars ng-star-inserted</value>
+      <webElementGuid>7e1dd653-8203-42b6-8ec4-f6ca7756c0b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container&quot;]/button[@class=&quot;toggle-btn&quot;]</value>
-      <webElementGuid>4babb10f-96a3-4dd2-bf33-c871664a7aec</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container&quot;]/button[@class=&quot;toggle-btn&quot;]/i[@class=&quot;pi pi-bars ng-star-inserted&quot;]</value>
+      <webElementGuid>4bb408cc-f9ce-449e-92d0-e60025deaada</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::button[1]</value>
-      <webElementGuid>a0420875-7b44-4595-88c9-939b9010ae0b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>20095a59-35e9-4aab-a6af-53600f157de4</webElementGuid>
+      <value>//i</value>
+      <webElementGuid>7f93e672-c84f-4940-b70d-645c0d4566a0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

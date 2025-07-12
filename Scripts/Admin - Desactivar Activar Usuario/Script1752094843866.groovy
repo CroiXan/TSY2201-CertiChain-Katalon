@@ -19,23 +19,35 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://certichain.ddns.net/login')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setText(findTestObject('Object Repository/Admin Usuario/Page_Certichain/input_Usuario o Email_username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Usuario o Email_username'), 'admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin Usuario/Page_Certichain/input_Contrasea_password'), 'cx1a8fEuUdO1Nly0T1GAYQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password'), 
+    'cx1a8fEuUdO1Nly0T1GAYQ==')
 
-WebUI.click(findTestObject('Object Repository/Admin Usuario/Page_Certichain/span_Iniciar Sesin'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Iniciar Sesin'))
 
-WebUI.click(findTestObject('Object Repository/Admin Usuario/Page_Certichain/button_Dashboard_toggle-btn'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Dashboard_toggle-btn'))
 
-WebUI.click(findTestObject('Object Repository/Admin Usuario/Page_Certichain/span_Administracion'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Administracion'))
 
-WebUI.click(findTestObject('Object Repository/Admin Usuario/Page_Certichain/button_Dashboard_toggle-btn'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-chevron-left ng-star-inserted'))
 
-WebUI.click(findTestObject('Object Repository/Admin Usuario/Page_Certichain/a_Desactivar'))
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/Admin Usuario/Page_Certichain/a_Activar'))
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Desactivar'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Activar'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
-

@@ -19,48 +19,61 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://certichain.ddns.net/login')
-
-WebUI.doubleClick(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Usuario o Email_username'))
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Usuario o Email_username'), 'admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password'), 
     'cx1a8fEuUdO1Nly0T1GAYQ==')
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Iniciar Sesin'))
+WebUI.sendKeys(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password'), Keys.chord(
+        Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Dashboard_toggle-btn'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-bars ng-star-inserted'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Administracion'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-chevron-left ng-star-inserted'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Tipos de usuario cargados correctame_e715e2'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/select_--Seleccione--AdminUsuarioInstitucion'), 
-    '68635ee1d7102f0ba8f7b3ad', true)
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/select_--Seleccione--AdminPersona JuridicaI_1650a1'), 
-    '68635f05d7102f0ba8f7b3b0', true)
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/li_UsuarioTest'))
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion Publica'))
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_TiposUsuarioPrueba'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Activo_ng-untouched ng-pristine ng-valid'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Aplicar Cambios'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Cancelar'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/select_--Seleccione--AdminUsuarioInstitucion'), 
-    '68635ed2d7102f0ba8f7b3ac', true)
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_UsuarioTest'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/select_--Seleccione--AdminPersona JuridicaI_1650a1'), 
-    '68635ef7d7102f0ba8f7b3af', true)
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion_1'))
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_TiposUsuarioPrueba_1'))
+
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/li_Institucion Privada'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Activo_ng-untouched ng-pristine ng-valid'))
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Aplicar Cambios'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 
