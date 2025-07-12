@@ -16,10 +16,13 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.apache.commons.lang.RandomStringUtils
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://certichain.ddns.net/login')
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+String sufijo = RandomStringUtils.randomNumeric(3)
 
 WebUI.setText(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/input_Usuario o Email_username'), 
     'admin')
@@ -27,26 +30,45 @@ WebUI.setText(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Cert
 WebUI.setEncryptedText(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/input_Contrasea_password'), 
     'cx1a8fEuUdO1Nly0T1GAYQ==')
 
-WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/span_Iniciar Sesin'))
+WebUI.sendKeys(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/input_Contrasea_password'), Keys.chord(
+        Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/button_Dashboard_toggle-btn'))
 
-WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/span_Administracion'))
+WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/a_Administracion'))
 
-WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/button_Dashboard_toggle-btn'))
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/i_Dashboard_pi pi-chevron-left ng-star-inserted'))
 
 WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/p-tab_Categorias'))
 
-WebUI.setText(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/input_SubTipo Usuario_ng-untouched ng-prist_34e797'), 
-    'SubTipo_')
+WebUI.setText(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/input_Subtipo Usuario_p-inputtext p-compone_c630a2'), 
+    'Subtipo_' + sufijo)
 
-WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/button_Crear'))
+WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/span_Crear'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/button_Mostrando 1 hasta 10 de 11 registros_614c70'))
+
+WebUI.delay(1)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/button_Mostrando 11 hasta 11 de 11 registro_477a16'))
 
 WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/a_Desactivar'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/a_Activar'))
 
-WebUI.click(findTestObject('Object Repository/Admin Sub Tipo Usuario/Page_Certichain/a_Desactivar'))
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 

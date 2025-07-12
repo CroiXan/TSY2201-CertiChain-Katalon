@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Mostrando 11 hasta 11 de 11 registro_477a16</name>
+   <tag></tag>
+   <elementGuidId>b52bf23e-4d65-4bb0-93e7-53e5f09dbdb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pn_id_2 > p-paginator.ng-star-inserted > div.p-paginator.p-component.ng-star-inserted > button.p-ripple.p-paginator-first.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#pn_id_2 >> internal:label=&quot;First Page&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bccd5934-d8d7-44af-ba68-5e4eed0d61e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b520e4ba-bd01-46c2-88df-190426edbab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-paginator-first ng-star-inserted</value>
+      <webElementGuid>4a32c649-0ba6-44b0-a2fd-b8b8ce5f0c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>de838ba0-4729-4d54-bfd4-1cee953729ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>First Page</value>
+      <webElementGuid>cbb618ca-f1b6-4e46-89d0-7e85103841d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_2&quot;)/p-paginator[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;p-paginator p-component ng-star-inserted&quot;]/button[@class=&quot;p-ripple p-paginator-first ng-star-inserted&quot;]</value>
+      <webElementGuid>f3af49ee-cde4-4b59-8637-471163483a61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>555bb5f9-9277-47ff-82bd-422ce87fefcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pn_id_2']/p-paginator/div/button</value>
+      <webElementGuid>012babfa-d562-44c2-89bd-5a3ca12f40d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrando 11 hasta 11 de 11 registros'])[1]/following::button[1]</value>
+      <webElementGuid>f2548078-fee3-4f5a-8ba4-ec89830259f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[10]/following::button[1]</value>
+      <webElementGuid>c2aa138f-a8a7-4305-8340-5d65e11e86ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/p-card/div/div/div/div/app-table/p-table/div/p-paginator/div/button</value>
+      <webElementGuid>656a9757-980c-4e16-b1d6-0e23ed99d73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>96fd50e5-e840-41be-87f1-282de9389e8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

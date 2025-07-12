@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>i_Dashboard_pi pi-bars ng-star-inserted</name>
+   <name>i_Dashboard_pi pi-chevron-left ng-star-inserted</name>
    <tag></tag>
-   <elementGuidId>d13caa1d-e303-4cac-8b9b-44781b28912b</elementGuidId>
+   <elementGuidId>d2ee2cb1-3880-4c2a-bc7e-4ed682125b19</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>i.pi.pi-bars.ng-star-inserted</value>
+         <value>i.pi.pi-chevron-left.ng-star-inserted</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;&quot;i]</value>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ffaf4151-7e00-41eb-b7bd-3f7c90576742</webElementGuid>
+      <webElementGuid>9f8dd4df-89dd-429b-b835-29548000ac8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>pi pi-bars ng-star-inserted</value>
-      <webElementGuid>399ed57b-d2df-4a5e-84b8-9dcb5924b75a</webElementGuid>
+      <value>pi pi-chevron-left ng-star-inserted</value>
+      <webElementGuid>d5b131b0-eb43-48e9-a6d0-b0c04f5cbdc3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container&quot;]/button[@class=&quot;toggle-btn&quot;]/i[@class=&quot;pi pi-bars ng-star-inserted&quot;]</value>
-      <webElementGuid>20e50049-b55a-4560-b2fb-4cc4759a9aec</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container sidebar-open&quot;]/button[@class=&quot;toggle-btn&quot;]/i[@class=&quot;pi pi-chevron-left ng-star-inserted&quot;]</value>
+      <webElementGuid>bec28373-81c6-42d7-9705-09084f98b95e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,6 +53,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//i</value>
-      <webElementGuid>b031c38c-0946-41b8-8d99-475da2db1ffd</webElementGuid>
+      <webElementGuid>c0e3b4ef-52db-41ed-a093-515533bd4d44</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

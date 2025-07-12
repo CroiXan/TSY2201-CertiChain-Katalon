@@ -7,18 +7,18 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.col-12 > custom-button[type=&quot;primary&quot;] > p-button > button.p-ripple.p-button.p-component.primary</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//p-tabpanel[@id='pn_id_6_tabpanel_1']/app-admin-categoria/p-card/div/div/div/div/section[2]/p-card/div/div/div/div/div/button</value>
+         <value>(//button[@type='button'])[7]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>section >> internal:has-text=&quot;SubTipo UsuarioCrearIDNombreEstadoAcción68635ee9d7102f0ba8f7b3aeAdminActivo Desa&quot;i >> internal:role=button</value>
+         <value>div >> internal:has-text=/^Subtipo UsuarioCrear$/ >> internal:role=button</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c8049e2e-d30b-4d45-9348-0d34d92a7197</webElementGuid>
+      <webElementGuid>3ec117c9-8561-4b25-a8cb-943150d410cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,18 +37,114 @@
       <name>text</name>
       <type>Main</type>
       <value>Crear</value>
-      <webElementGuid>2384bdc5-f79e-4cdf-89b6-05cf3b077ecf</webElementGuid>
+      <webElementGuid>6faa9f6a-a98e-417f-b37a-c55857ff31e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_6_tabpanel_1&quot;)/app-admin-categoria[@class=&quot;ng-star-inserted&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;container&quot;]/section[@class=&quot;table-card&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;actions&quot;]/button[1]</value>
-      <webElementGuid>7baa3bd1-2fd7-4510-badd-c629cb586ffb</webElementGuid>
+      <value>id(&quot;pn_id_6_tabpanel_1&quot;)/app-admin-categoria[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/custom-button[1]/p-button[1]/button[@class=&quot;p-ripple p-button p-component primary&quot;]</value>
+      <webElementGuid>b6e6dfe3-ae67-4733-8e93-94597a80271a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-ripple p-button p-component primary</value>
+      <webElementGuid>6cf72c5f-e556-4564-99ce-72080a181b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>e7d0f780-2a34-495f-8cbd-d5cc326074e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a9e25a15-6f5d-492b-890c-f832037e5b28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-name</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e0a6112a-5e60-4ba9-bc80-f0e78695c255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-pc-section</name>
+      <type>Main</type>
+      <value>root</value>
+      <webElementGuid>9ae92e62-aea4-48b3-9b68-f9667133d6c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>8cdc0b8d-f155-4dc3-ae02-e6692c71b5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_1']/app-admin-categoria/div[3]/div/p-card/div/div/div/div/div/custom-button/p-button/button</value>
+      <webElementGuid>b3121e3a-9f5a-4d7b-b0a8-6aef40bf95a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtipo Usuario'])[1]/following::button[1]</value>
+      <webElementGuid>92380ea6-d9bc-4210-89e0-adc514f42709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrando 1 hasta 9 de 9 registros'])[1]/following::button[6]</value>
+      <webElementGuid>d9e68975-5ad9-4223-b77e-c80a51bccadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::button[1]</value>
+      <webElementGuid>80f61b06-14ee-4d61-afcb-471df0b52026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/custom-button/p-button/button</value>
+      <webElementGuid>41768d44-7517-475b-bc7c-567368fb9036</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Crear' or . = 'Crear')]</value>
+      <webElementGuid>8c484a53-f3b0-4bab-ba9a-d59e06d08f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -70,14 +166,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[5]/following::button[1]</value>
       <webElementGuid>05781644-ddac-4eab-99f7-1e5dc5a9d40a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[2]/preceding::button[1]</value>
-      <webElementGuid>f665df79-e625-4eb2-8a85-6c41214fdbf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

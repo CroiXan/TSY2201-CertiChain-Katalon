@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>924711a6-bb50-47b0-b23c-015ea1e31391</webElementGuid>
+      <webElementGuid>24bf548c-ff39-4c98-b9d2-ebabd8967d5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>67c3055e-0d87-4779-a5bf-b7fd6044e698</webElementGuid>
+      <webElementGuid>a0177328-1bdd-452e-a694-a3b9c2c80877</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>15fac688-22b9-47f7-9e62-b6f7728322df</webElementGuid>
+      <webElementGuid>98ccc3d2-72cb-420c-8771-48aaa34fb49b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>96ee6a1f-ee38-43b2-9c04-0953dd68db76</webElementGuid>
+      <webElementGuid>983beca3-7d16-4fdc-af2f-b8c433620d3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Ingrese su contraseña</value>
-      <webElementGuid>2850d70d-a096-4fe1-bc05-e9ccd1ef07c0</webElementGuid>
+      <webElementGuid>cd0adeeb-3411-4c38-8864-f9663bf9e87c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-inputtext p-component w-full ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>ee6b5db3-1d6e-4da2-9fb6-30157981953b</webElementGuid>
+      <webElementGuid>d86b7815-f212-413b-955e-0e2520222722</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;password&quot;)</value>
-      <webElementGuid>4b5c4b5d-4247-47cf-8349-c13aedea76f6</webElementGuid>
+      <webElementGuid>64aef84f-4fcf-4167-852f-83fdc6da5ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>632d94be-970d-41c4-9b53-5f342cb5eff7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='password']</value>
-      <webElementGuid>df9bcc46-1e69-483d-b7ca-93bfe9c5977f</webElementGuid>
+      <webElementGuid>ec6f4295-38ef-4388-8d7d-30d0f202a9dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>33394f95-2992-4114-83ba-d57ab5b83905</webElementGuid>
+      <webElementGuid>4af74aeb-5033-48c2-b3b3-83db70140ae5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'password' and @type = 'password' and @placeholder = 'Ingrese su contraseña']</value>
-      <webElementGuid>902d9f35-7615-4862-b878-7d4eb9170d64</webElementGuid>
+      <webElementGuid>e546f25f-85ac-4aa9-b91a-05c624a56629</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b2765d61-b019-4ec2-8e5a-f697a1a93af1</webElementGuid>
+      <webElementGuid>189140a0-6803-4e12-b7e6-92694fc22acf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>c7b00c5b-1a07-4df5-9c1c-811e54d6790e</webElementGuid>
+      <webElementGuid>e0ddf93c-50cc-4627-a4de-6984229a22a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>bf6ca73f-a857-4c59-8d00-8a0b0b0c2247</webElementGuid>
+      <webElementGuid>26496e17-b9fc-484c-a3b4-fef28ceb2ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>formcontrolname</name>
       <type>Main</type>
       <value>username</value>
-      <webElementGuid>c745c74b-511f-48d1-bfd7-7bcdb7ff2cae</webElementGuid>
+      <webElementGuid>9d4f9535-c8a9-4fcd-b315-0693e7f99a93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Ingrese su usuario o email</value>
-      <webElementGuid>955bd1df-7f48-419b-a184-16939a5695f7</webElementGuid>
+      <webElementGuid>14a71ba4-911e-4116-a276-e42278e6b0fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-inputtext p-component w-full ng-untouched ng-pristine ng-invalid</value>
-      <webElementGuid>d7257337-de11-4ef6-95f3-40d5035e0e15</webElementGuid>
+      <webElementGuid>e5c01541-6af1-4e43-bc78-58164b5d033d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;username&quot;)</value>
-      <webElementGuid>59133b4b-1065-4c09-8f38-f153a8436b60</webElementGuid>
+      <webElementGuid>5758d4b4-1e78-4ae2-bf3c-da4c5a1bc3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>99a4ed8b-06fc-4205-a0b6-d1193e305035</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='username']</value>
-      <webElementGuid>62137fda-b5b6-4658-bea6-5868460f4240</webElementGuid>
+      <webElementGuid>d10fc7ba-435b-4e40-b9cb-136c9a908599</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>951b1af1-ed17-4efe-abd9-8b007e11b26e</webElementGuid>
+      <webElementGuid>d42d8d24-bef7-486c-98f4-3daae2292dc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'username' and @type = 'text' and @placeholder = 'Ingrese su usuario o email']</value>
-      <webElementGuid>173bbc49-ec89-4b35-8465-848ec43519a6</webElementGuid>
+      <webElementGuid>1299efa9-03bb-44ea-88ca-32ea89cddc3f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

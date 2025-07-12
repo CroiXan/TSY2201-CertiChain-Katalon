@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p-tab</value>
-      <webElementGuid>c012bf27-a5c5-480b-bdaf-bdbf458ad0ec</webElementGuid>
+      <webElementGuid>f4b1de4c-e4c2-4c0d-8a92-64e5b081c891</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>p-ripple p-tab p-component ng-star-inserted</value>
-      <webElementGuid>ea79b5fe-aaf3-4b53-bdc7-77dfaeb41d33</webElementGuid>
+      <webElementGuid>c72e74d1-16ab-4a32-9e8b-d9617befa304</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>5a133882-2654-425c-ae49-ca2942be4da2</webElementGuid>
+      <webElementGuid>eede8057-e5c3-44e2-a3da-1fd70c498a45</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pn_id_6_tab_1</value>
-      <webElementGuid>a03e4de2-9642-4eb3-b407-6a496dcab7e6</webElementGuid>
+      <webElementGuid>7c275334-595b-442a-8894-7b696c558650</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>pn_id_6_tabpanel_1</value>
-      <webElementGuid>d75426ee-8028-446a-b7fa-683bc61c795a</webElementGuid>
+      <webElementGuid>41338c42-f99f-4aee-bf83-680d01a5f361</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>537b411a-96b3-443c-a44c-7de119af7d61</webElementGuid>
+      <webElementGuid>c57db8c6-7cc7-488b-b2be-8db093c1bbce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3a443302-a020-43e4-9751-2a7558dced40</webElementGuid>
+      <webElementGuid>3f6b005b-d470-46b1-984c-d17993be3757</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>9ffb7117-d4df-42ea-a3b9-dde0021f5542</webElementGuid>
+      <webElementGuid>1a6a3379-c5f3-4b3c-983a-38dd1c6efa76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>data-p-active</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bf8e312b-8e22-45df-93f6-c1ee9ed1ad84</webElementGuid>
+      <webElementGuid>841d64bb-3f86-4a7c-9104-a6494b5c7f79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>d0b812ce-d55b-489d-ab95-be63bdf0caab</webElementGuid>
+      <webElementGuid>22311aab-baf7-4407-874b-357932954773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Categorias</value>
-      <webElementGuid>99de037f-f208-4ec0-a50f-544256f27d8c</webElementGuid>
+      <webElementGuid>99375b99-38f3-4575-aee0-0e6bd54ea76f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pn_id_6_tab_1&quot;)</value>
-      <webElementGuid>d0d055ec-56ed-449f-83db-8c68501b3e74</webElementGuid>
+      <webElementGuid>82b5d8b5-6dcf-4a3c-8c89-c44d514a12d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-value</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>648f2dfa-78c2-4541-a414-21a746417e2d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +133,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p-tab[@id='pn_id_6_tab_1']</value>
-      <webElementGuid>bc2aa6a2-ac31-47ea-b1fa-a08afee7c166</webElementGuid>
+      <webElementGuid>b048a0f8-9bb0-415d-a96e-31bfac8263ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +141,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p-tabs[@id='pn_id_6']/p-tablist/div/div/p-tab[2]</value>
-      <webElementGuid>004b0171-7685-4e98-ae9e-aa61794d8efe</webElementGuid>
+      <webElementGuid>60972d96-1c4c-4927-9c56-0bfabfcdf91d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[1]/following::p-tab[1]</value>
-      <webElementGuid>90b1afa2-cdc2-4c65-9f5c-4c3b36b2fbd9</webElementGuid>
+      <webElementGuid>9a37b8e2-1328-4d2c-8ad0-eeb8f5032afa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +157,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Administración'])[1]/following::p-tab[2]</value>
-      <webElementGuid>3fa4f3d4-e4f3-4cf3-a061-87c8acc85436</webElementGuid>
+      <webElementGuid>9bd2bcaf-bc03-4996-860c-9de8ad150ad7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +165,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Auditoría'])[1]/preceding::p-tab[1]</value>
-      <webElementGuid>df463a2a-2daf-472e-936f-42002a2302ac</webElementGuid>
+      <webElementGuid>c9c54193-32d9-4177-81db-48af036cd998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[2]/preceding::p-tab[2]</value>
+      <webElementGuid>27c0b64c-ebe2-45ab-86c3-b3f82ea45e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Categorias']/parent::*</value>
+      <webElementGuid>2ea4e199-dad4-4041-844d-302822be67f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-tab[2]</value>
+      <webElementGuid>0a95c766-b897-472f-aab5-2707d9b18bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p-tab[@id = 'pn_id_6_tab_1' and (text() = 'Categorias' or . = 'Categorias')]</value>
+      <webElementGuid>1048704c-f6db-4fda-b2b2-c75c7372dc9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,29 +206,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::p-tab[2]</value>
       <webElementGuid>41b13c8c-8c51-4911-aff4-853396f0e080</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Categorias']/parent::*</value>
-      <webElementGuid>49b01123-6f69-4158-9a9d-739dc31838c8</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//p-tab[2]</value>
-      <webElementGuid>3d9db83d-3892-4a76-869e-196d8855beeb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//p-tab[@id = 'pn_id_6_tab_1' and (text() = 'Categorias' or . = 'Categorias')]</value>
-      <webElementGuid>c62f2894-d8f5-4430-9dc9-f6e391f02ee8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

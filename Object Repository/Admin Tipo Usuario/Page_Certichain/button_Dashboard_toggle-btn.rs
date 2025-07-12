@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Dashboard_toggle-btn</name>
    <tag></tag>
-   <elementGuidId>3c871dbc-49d4-4b35-896d-c3b0e0eaf7dd</elementGuidId>
+   <elementGuidId>4f9fbc62-6822-44a5-9a76-961bd72d3dd8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;&quot;i]</value>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>37d29383-c66e-419d-b24b-6da69a10d891</webElementGuid>
+      <webElementGuid>2833a368-6543-47a9-9106-22bb2926a313</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>toggle-btn</value>
-      <webElementGuid>10e39c9f-db5e-4a09-bb29-6d563b425b68</webElementGuid>
+      <webElementGuid>d4c6704d-b780-448e-9bbb-64ab8c723cff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container&quot;]/button[@class=&quot;toggle-btn&quot;]</value>
-      <webElementGuid>fa32d128-427b-464a-9e8b-c1ad5c5383ec</webElementGuid>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container sidebar-open&quot;]/button[@class=&quot;toggle-btn&quot;]</value>
+      <webElementGuid>9a549416-b910-4641-bf46-22e4aa9624ba</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::button[1]</value>
-      <webElementGuid>3bd24875-fef7-43b8-aff6-3decd4dd7abe</webElementGuid>
+      <webElementGuid>1266910b-e0ea-4e85-b398-2b591fec3255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administracion'])[1]/preceding::button[1]</value>
+      <webElementGuid>b22fb0ef-620f-40d9-a4e4-2ec70a79926d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +69,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>83b81be3-d64e-496c-87c1-699f8ba032f0</webElementGuid>
+      <webElementGuid>3fcc9976-ebbf-4e2f-9510-8fd3719e369c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

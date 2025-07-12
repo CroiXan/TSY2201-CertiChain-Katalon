@@ -16,6 +16,9 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil
+
+String path = ''
 
 WebUI.openBrowser('')
 
@@ -33,9 +36,13 @@ WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certicha
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Administracion'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Tipos de usuario cargados correctame_e715e2'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-bars ng-star-inserted'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion'))
 
@@ -51,9 +58,7 @@ WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certicha
 
 WebUI.delay(3)
 
-WebUI.takeScreenshot()
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
+path = WebUI.takeScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Cancelar'))
 
@@ -73,7 +78,7 @@ WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certicha
 
 WebUI.delay(3)
 
-WebUI.takeScreenshot()
+path = WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 

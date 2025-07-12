@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>04b6807d-bbc8-47b0-9e4a-1b31e1fc08ad</webElementGuid>
+      <webElementGuid>487b41f0-1bfd-4f08-9049-a247f4d85256</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>3545cdab-313f-477e-9ab7-8bcbace2268b</webElementGuid>
+      <webElementGuid>09e45c01-0693-4bbc-a30a-493ccd78bbaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>label</name>
       <type>Main</type>
       <value>Iniciar Sesión</value>
-      <webElementGuid>83c96ea0-535b-400a-95bf-3edc63205f06</webElementGuid>
+      <webElementGuid>11246168-4628-4b57-840d-34f0a46583ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>auth-button w-full p-button p-component</value>
-      <webElementGuid>3d3dedce-449c-42e7-9140-0d8cc908846e</webElementGuid>
+      <webElementGuid>aa9aaf4a-b101-4654-95f5-4287ce3d0ede</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Iniciar Sesión</value>
-      <webElementGuid>a34d7322-e0f9-4a7f-a90e-c5ac78e4b4a6</webElementGuid>
+      <webElementGuid>121877c2-fa94-4fe2-b936-3f9d3e6e0adb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,23 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid&quot;]/app-login[1]/div[@class=&quot;auth-container&quot;]/p-card[1]/div[@class=&quot;auth-card p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;auth-form&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-field button-container&quot;]/button[@class=&quot;auth-button w-full p-button p-component&quot;]</value>
-      <webElementGuid>3f1276da-f85e-4fc2-ab18-7f35fbb44674</webElementGuid>
+      <webElementGuid>24a1ad03-44c8-40d5-968d-d50c050f59d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-label</name>
+      <type>Main</type>
+      <value>Iniciar Sesión</value>
+      <webElementGuid>0d07a734-f0dd-4eba-bfab-a50d8897f7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>77e4bd94-87b7-4299-befb-5a411891ed04</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>def3ddcf-b5dd-4ba0-87ad-dd5c32721484</webElementGuid>
+      <webElementGuid>342b0c85-0791-49fa-bc72-9f8f42820d99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/following::button[1]</value>
-      <webElementGuid>5d242671-b6f0-40e1-90c6-8e66d78d885a</webElementGuid>
+      <webElementGuid>aeacb806-b496-4911-8633-6d4f4ff78493</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario o Email'])[1]/following::button[1]</value>
-      <webElementGuid>71f4e70f-0fcc-444d-b798-b56eef403447</webElementGuid>
+      <webElementGuid>dfe3f36b-9f9a-48af-a7d3-0cfe71823111</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='¿No tienes cuenta? Regístrate'])[1]/preceding::button[1]</value>
-      <webElementGuid>bacd89b5-e503-410f-b7e8-b5dc368017d9</webElementGuid>
+      <webElementGuid>92015f62-2883-4303-b1f1-c89c2263abfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>d51709ff-0602-475d-9036-d245c31cda66</webElementGuid>
+      <webElementGuid>1894f256-16ef-4186-a3e3-164f8f1eb541</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Iniciar Sesión' or . = 'Iniciar Sesión')]</value>
-      <webElementGuid>50f9f418-f92a-49cf-8bcb-0d56bbe36dc8</webElementGuid>
+      <webElementGuid>69c814d8-f554-45b8-a92b-4740ec772101</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
