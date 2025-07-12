@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Administracion</name>
+   <name>td_Institucion1</name>
    <tag></tag>
-   <elementGuidId>99b56db6-ac5b-49b6-a567-b026999e66a6</elementGuidId>
+   <elementGuidId>113dae81-8196-4aa5-ad9e-38f018d06272</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#pn_id_2_1 > div.p-menu-item-content > a.p-ripple.p-menu-item-link.ng-star-inserted > span.p-menu-item-label.ng-star-inserted</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='pn_id_2_1']/div/a/span[2]</value>
+         <value>//table[@id='pn_id_4-table']/tbody/tr[3]/td[3]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Administracion&quot;i]</value>
+         <value>internal:role=cell[name=&quot;Institucion1&quot;i] >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,95 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>077cb5e4-90d1-4000-ad11-4c8fe9e66b64</webElementGuid>
+      <value>td</value>
+      <webElementGuid>6db89fd0-f8bc-4170-ba29-20d5c717295c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>p-menu-item-label ng-star-inserted</value>
-      <webElementGuid>7a4888bc-df1e-4981-a3d3-6d04b11db31d</webElementGuid>
+      <value>ng-star-inserted</value>
+      <webElementGuid>b8459297-ef08-4af3-a17a-009479653531</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Administracion</value>
-      <webElementGuid>1c91b5c2-438f-42c2-91b6-e22b90785b17</webElementGuid>
+      <value> Institucion1 </value>
+      <webElementGuid>d583a025-ca45-4578-8b09-b8fb11cd74c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_2_1&quot;)/div[@class=&quot;p-menu-item-content&quot;]/a[@class=&quot;p-ripple p-menu-item-link ng-star-inserted&quot;]/span[@class=&quot;p-menu-item-label ng-star-inserted&quot;]</value>
-      <webElementGuid>42904156-191f-490a-a565-8606aab2d7ba</webElementGuid>
+      <value>id(&quot;pn_id_4-table&quot;)/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>e68c09c5-def0-4dcd-87df-00094ae46ecd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='pn_id_2_1']/div/a/span[2]</value>
-      <webElementGuid>64f8152e-a2cc-4fa1-ad26-b54c8f9e6f99</webElementGuid>
+      <value>//table[@id='pn_id_4-table']/tbody/tr[3]/td[3]</value>
+      <webElementGuid>3f1cc2ef-8b49-4797-ba95-27979edfa254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[2]</value>
-      <webElementGuid>f6de613a-2ebd-441f-9e92-a67b85243668</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test321'])[1]/following::td[4]</value>
+      <webElementGuid>421d0db2-9a03-4fff-9fec-fc4f9221074f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::span[2]</value>
-      <webElementGuid>81616d1e-b8fb-48fb-8e56-4e40a3d4da4e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org321'])[1]/following::td[5]</value>
+      <webElementGuid>dd525139-9fab-4a2e-9a86-ac0a88241baa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[3]</value>
-      <webElementGuid>3459f6fc-6cda-4a41-b4a8-a62585d23cc2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='d4a83478-30d1-7074-4da9-4fb0ab907959'])[1]/preceding::td[1]</value>
+      <webElementGuid>1546f67a-5e77-41fc-88fe-1d8adef636ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Administracion']/parent::*</value>
-      <webElementGuid>f0310026-8c02-4b41-bddf-9e65468f3ca6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='d4a83478-30d1-7074-4da9-4fb0ab907959'])[2]/preceding::td[6]</value>
+      <webElementGuid>f75bb300-f95c-4a08-9415-95c3c4acfac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Institucion1']/parent::*</value>
+      <webElementGuid>4db42212-35e9-4138-b848-ca807fd8880d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/div/a/span[2]</value>
-      <webElementGuid>df48a420-98cb-455f-b8b6-fd003d95400a</webElementGuid>
+      <value>//tr[3]/td[3]</value>
+      <webElementGuid>cb66c0ca-b516-4ce5-bd9d-fdcf4898c7c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Administracion' or . = 'Administracion')]</value>
-      <webElementGuid>7c3f953f-9ab0-43ab-ba18-54ca0f71c39b</webElementGuid>
+      <value>//td[(text() = ' Institucion1 ' or . = ' Institucion1 ')]</value>
+      <webElementGuid>1ad2a1c7-0eac-42ad-b282-9b9a71d56a6d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

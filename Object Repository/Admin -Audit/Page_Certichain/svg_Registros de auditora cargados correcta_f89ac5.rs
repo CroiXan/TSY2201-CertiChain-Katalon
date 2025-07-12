@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Registros de auditora cargados correcta_f89ac5</name>
+   <tag></tag>
+   <elementGuidId>8b678f5c-72b7-484c-a392-0c7161744a77</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>timesicon.p-component.p-iconwrapper.ng-tns-c2572556178-7.p-toast-close-icon.ng-star-inserted > svg.p-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Registros de auditoría cargados correctamente'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p-toastitem >> internal:has-text=&quot;Auditoría Registros de auditoría cargados correctamente&quot;i >> internal:label=&quot;Close&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>575e0ba0-d010-46c5-91b4-7ed50fef921e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>e4a7422b-a82f-47eb-b379-ed581eeee003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>d7551247-25a3-4c61-b0e3-38d3b6cfb83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 14 14</value>
+      <webElementGuid>2b386f74-1c08-42a0-baad-b41d1e394e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>6a33af8f-10a6-41de-bf68-232ac7bdc0f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6eb7a332-2057-4089-a249-7e35d90ae70f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-icon</value>
+      <webElementGuid>58ff85cc-056f-4258-afab-7a2ddeced29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>900fc6ba-c40e-4556-981e-1a1c8a62b909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/p-toast[@class=&quot;ng-tns-c757183554-0&quot;]/div[@class=&quot;p-toast p-component p-toast-top-right&quot;]/p-toastitem[@class=&quot;ng-tns-c2572556178-7 ng-trigger ng-trigger-toastAnimation ng-tns-c757183554-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2572556178-7 ng-trigger ng-trigger-messageState p-toast-message p-toast-message-success&quot;]/div[@class=&quot;ng-tns-c2572556178-7 p-toast-message-content ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c2572556178-7 ng-star-inserted&quot;]/button[@class=&quot;p-toast-close-button&quot;]/timesicon[@class=&quot;p-component p-iconwrapper ng-tns-c2572556178-7 p-toast-close-icon ng-star-inserted&quot;]/svg[@class=&quot;p-icon&quot;]</value>
+      <webElementGuid>a2b91f4b-3405-4579-bb0f-d962331e3397</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registros de auditoría cargados correctamente'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>c27009de-f163-478a-b69f-44c59655d629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auditoría'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>a7ebee4c-1e74-4f4e-9328-30cc5ef27815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtipos de Usuario'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>06c7befc-c29f-4490-ba88-bff736baacc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subtipos de usuario cargados correctamente'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>8ac6543e-24a2-4e7b-8d70-0439fc33fef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

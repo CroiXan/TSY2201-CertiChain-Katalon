@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Buscar</name>
+   <name>button_Fin_p-ripple p-button p-component p-_623048</name>
    <tag></tag>
-   <elementGuidId>4063af6a-ca4e-4a3f-9177-84d3bd5f57d3</elementGuidId>
+   <elementGuidId>897b6d11-4694-4744-bd4f-d6d69897c686</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>button.p-ripple.p-button.p-component.primary</value>
+         <value>button.p-ripple.p-button.p-component.p-button-rounded.p-button-text.p-button-sm.p-datepicker-prev-button.p-button-icon-only</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='button']</value>
+         <value>(//button[@type='button'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Buscar&quot;i]</value>
+         <value>internal:label=&quot;Previous Month&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>267ecba5-2926-45bc-841e-52b0ebf0b2d3</webElementGuid>
+      <webElementGuid>bf94c7e4-7cd5-4b17-b997-6a3b6cc0e44c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>p-ripple p-button p-component primary</value>
-      <webElementGuid>feb60423-d8f1-4a49-8b98-67276cb4a814</webElementGuid>
+      <value>p-ripple p-button p-component p-button-rounded p-button-text p-button-sm p-datepicker-prev-button p-button-icon-only</value>
+      <webElementGuid>b1fb3089-ff86-49c9-a912-361fea222d06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>ng-reflect-ng-class</name>
       <type>Main</type>
       <value>[object Object]</value>
-      <webElementGuid>5c540def-236a-4efd-b273-1d53e49b6781</webElementGuid>
+      <webElementGuid>c1d047dd-f40a-4e85-824f-5f12433d49ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>95904c28-e6bf-497b-ac8f-0989474c703d</webElementGuid>
+      <webElementGuid>07cdb735-13ee-42aa-a2d9-28e0dbd71abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Previous Month</value>
+      <webElementGuid>65b2f10d-f45e-471c-af3d-87d6e6a892a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +69,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0ae09e55-3317-4199-b799-c3453269bf2b</webElementGuid>
+      <webElementGuid>1034cafc-5e90-415b-8ac4-2f16c76891bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,47 +77,31 @@
       <name>data-pc-section</name>
       <type>Main</type>
       <value>root</value>
-      <webElementGuid>03cb5a79-2008-42b4-b71f-6393f3eac0e5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Buscar</value>
-      <webElementGuid>7eefb952-a466-4b60-b4b5-550fdd289ff0</webElementGuid>
+      <webElementGuid>bdfce0dc-0471-4c74-a2cc-801073574b3d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_6_tabpanel_2&quot;)/app-admin-auditoria[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/custom-button[1]/p-button[1]/button[@class=&quot;p-ripple p-button p-component primary&quot;]</value>
-      <webElementGuid>c59a8a14-10fd-4298-b927-24814ce32e3f</webElementGuid>
+      <value>id(&quot;pn_id_8_panel&quot;)/div[@class=&quot;p-datepicker-calendar-container ng-tns-c2825477640-3 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-calendar ng-tns-c2825477640-3 ng-star-inserted&quot;]/div[@class=&quot;p-datepicker-header ng-tns-c2825477640-3&quot;]/p-button[@class=&quot;ng-tns-c2825477640-3&quot;]/button[@class=&quot;p-ripple p-button p-component p-button-rounded p-button-text p-button-sm p-datepicker-prev-button p-button-icon-only&quot;]</value>
+      <webElementGuid>a26a2c7f-15c2-4cab-b383-5c72065f068e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='button']</value>
-      <webElementGuid>7043a72c-6907-4190-860e-8f4e4573b326</webElementGuid>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>58b8219d-a1aa-4186-90b8-8deda7f63366</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//p-tabpanel[@id='pn_id_6_tabpanel_2']/app-admin-auditoria/div/div/p-card/div/div/div/custom-button/p-button/button</value>
-      <webElementGuid>ab9fdbb6-180d-494e-8098-9572dd6d816a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fin:'])[1]/following::button[1]</value>
-      <webElementGuid>5c63e7cb-7d96-4d2a-975e-5fdaf6ad6b6a</webElementGuid>
+      <value>//div[@id='pn_id_8_panel']/div/div/div/p-button/button</value>
+      <webElementGuid>0cf9f4bb-325f-4a9e-af51-56c2f481d6c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,15 +109,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inicio:'])[1]/following::button[1]</value>
-      <webElementGuid>b92623c4-319a-4e13-bcf4-f458559baae7</webElementGuid>
+      <webElementGuid>6c9a1586-875f-41d2-a98c-997ddcaca05c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='txID'])[1]/preceding::button[1]</value>
-      <webElementGuid>a17c724b-515d-4b4e-9299-58867da56818</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='July'])[1]/preceding::button[1]</value>
+      <webElementGuid>57166b31-0fbb-45c5-9a2e-7baf3ff6c499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::button[4]</value>
+      <webElementGuid>76fc7b9c-55ca-444e-85fa-01ee5a5111ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,14 +133,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p-button/button</value>
-      <webElementGuid>70df3b52-c58f-4a37-8b51-c3a508088d89</webElementGuid>
+      <webElementGuid>d24c6a15-4fbd-4797-b40d-00ea6d0e3cc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Buscar' or . = 'Buscar')]</value>
-      <webElementGuid>059fba42-5f42-4dca-87f6-df5881b8ad19</webElementGuid>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>b9d47347-00e7-406f-9a90-3ce924cba8c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Solicitante_ng-untouched ng-pristine _4c63a6</name>
+   <name>input_Emisor_p-inputtext p-component ng-unt_fd3f72</name>
    <tag></tag>
-   <elementGuidId>4584f6eb-c44e-41c4-a055-6b499b2d02d4</elementGuidId>
+   <elementGuidId>0f63e2ca-b3ae-4bcd-bbbc-106d9a6640f9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.ng-untouched.ng-pristine.ng-valid</value>
+         <value>input.p-inputtext.p-component.ng-untouched.ng-pristine.ng-valid</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(//input[@type='text'])[2]</value>
+         <value>//input[@type='text']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Solicitante&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Ingrese Emisor&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>28e9d698-7ba7-44ec-a51f-3c6fd86d1606</webElementGuid>
+      <webElementGuid>d209a2c0-ea9e-4a31-b42d-d284768fa2dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,62 +37,62 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>52d58948-3ad4-49d1-90f3-884a5a782e1b</webElementGuid>
+      <webElementGuid>43630a24-73d6-40ee-baeb-30e8309457cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Solicitante</value>
-      <webElementGuid>1c47f9b5-197f-43ad-a4d1-d26f8f763377</webElementGuid>
+      <value>Ingrese Emisor</value>
+      <webElementGuid>0518bba6-f2a7-44ed-9a41-318d525a1024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ng-untouched ng-pristine ng-valid</value>
-      <webElementGuid>f00b5fbe-d5ae-4513-92c7-1a53bab747fc</webElementGuid>
+      <value>p-inputtext p-component ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>5b213524-7b87-4112-8276-ac748bc0a9b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;pn_id_6_tabpanel_2&quot;)/app-admin-auditoria[@class=&quot;ng-star-inserted&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;filters&quot;]/label[2]/input[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]</value>
-      <webElementGuid>3409d6e8-e1d1-4fbd-adf0-a389ea67cae1</webElementGuid>
+      <value>id(&quot;pn_id_6_tabpanel_2&quot;)/app-admin-auditoria[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;col-12&quot;]/p-card[1]/div[@class=&quot;p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/label[1]/input[@class=&quot;p-inputtext p-component ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>3a1a2e80-e2ac-4742-834b-c9577aa74153</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//input[@type='text'])[2]</value>
-      <webElementGuid>4f19cfa6-8113-4780-9c11-9732e244edab</webElementGuid>
+      <value>//input[@type='text']</value>
+      <webElementGuid>54f12dc3-0ad9-423f-9653-aada7011df08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//p-tabpanel[@id='pn_id_6_tabpanel_2']/app-admin-auditoria/p-card/div/div/div/div/label[2]/input</value>
-      <webElementGuid>bd68eb0d-1fac-4ab2-b997-7db4fb129b6d</webElementGuid>
+      <value>//p-tabpanel[@id='pn_id_6_tabpanel_2']/app-admin-auditoria/div/div/p-card/div/div/div/label/input</value>
+      <webElementGuid>f8ad2121-a3a1-4e58-8e80-a3be8b62f1da</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//label[2]/input</value>
-      <webElementGuid>35026895-735b-4577-b331-deb5dd73d051</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>21fb38b1-58c2-49f0-be51-e59e21794a6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Solicitante']</value>
-      <webElementGuid>eca8b8fe-cbdb-4d43-a738-6304deb1010e</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Ingrese Emisor']</value>
+      <webElementGuid>dfbfc987-1a51-4e56-8740-f144b67b2e89</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -19,55 +19,52 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://certichain.ddns.net/login')
+WebUI.navigateToUrl(GlobalVariable.URL)
 
 WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Usuario o Email_username'), 'admin')
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Contrasea_password'), 'cx1a8fEuUdO1Nly0T1GAYQ==')
 
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/span_Iniciar Sesin'))
+WebUI.sendKeys(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Contrasea_password'), Keys.chord(Keys.ENTER))
 
 WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Dashboard_toggle-btn'))
 
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/span_Administracion'))
+WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/a_Administracion'))
 
 WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Dashboard_toggle-btn'))
 
 WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/p-tab_Auditora'))
 
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/td_institucion1'))
+WebUI.delay(3)
 
-WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Emisor_ng-untouched ng-pristine ng-valid'), 
-    'institucion1')
+WebUI.takeScreenshot()
+
+WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Emisor_p-inputtext p-component ng-unt_fd3f72'),
+	'')
+
+WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Solicitante_p-inputtext p-component n_efbd4a'),
+	'user1')
+
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Buscar'))
 
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Emisor_ng-untouched ng-pristine ng-valid'))
+WebUI.delay(2)
 
-WebUI.doubleClick(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Emisor_ng-untouched ng-pristine ng-valid'))
+WebUI.takeScreenshot()
 
-WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Emisor_ng-untouched ng-pristine ng-valid'), 
+WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Solicitante_p-inputtext p-component n_efbd4a'), 
     '')
 
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Buscar'))
+WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Emisor_p-inputtext p-component ng-unt_fd3f72'), 
+    'Institucion1')
 
-WebUI.doubleClick(findTestObject('Object Repository/Admin -Audit/Page_Certichain/td_user45'))
-
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/td_user45'))
-
-WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Solicitante_ng-untouched ng-pristine _4c63a6'), 
-    'user45')
+WebUI.delay(2)
 
 WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Buscar'))
 
-WebUI.doubleClick(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Solicitante_ng-untouched ng-pristine _4c63a6'))
+WebUI.delay(2)
 
-WebUI.setText(findTestObject('Object Repository/Admin -Audit/Page_Certichain/input_Solicitante_ng-untouched ng-pristine _4c63a6'), 
-    '')
+WebUI.takeScreenshot()
 
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Buscar'))
-
-WebUI.click(findTestObject('Object Repository/Admin -Audit/Page_Certichain/button_Buscar'))
-
-WebUI.closeBrowser()
 

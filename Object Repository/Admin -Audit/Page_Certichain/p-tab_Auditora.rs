@@ -3,7 +3,7 @@
    <description></description>
    <name>p-tab_Auditora</name>
    <tag></tag>
-   <elementGuidId>3465fc82-bf37-4985-85c6-ce3814a5a91e</elementGuidId>
+   <elementGuidId>372ae963-4ed2-41c2-9502-9ac7bcdb22c4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p-tab</value>
-      <webElementGuid>ab5c4fa3-0558-4ab8-b642-953aa6ddbd35</webElementGuid>
+      <webElementGuid>170113e6-a8b2-4858-a993-1715c4de0424</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>p-ripple p-tab p-component ng-star-inserted</value>
-      <webElementGuid>026d232d-d1c8-43e5-bffb-a817487053d0</webElementGuid>
+      <webElementGuid>0ae5bbd8-87ec-417a-97de-5dd009923f09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-value</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>aa2c8272-f973-4cd8-8eed-58abbe08396a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +53,7 @@
       <name>data-pc-name</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>21bb6970-55b3-4328-b598-78da1f6d87c4</webElementGuid>
+      <webElementGuid>67e17aae-daa9-4803-b369-1ee2378cf093</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pn_id_6_tab_2</value>
-      <webElementGuid>8454aef3-9ba2-4f2f-835d-007f617045df</webElementGuid>
+      <webElementGuid>50c8d0e0-13cb-4572-b3f5-ce62c4493844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +69,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>pn_id_6_tabpanel_2</value>
-      <webElementGuid>a85b3d49-90de-4b21-9833-40c1b3f9e616</webElementGuid>
+      <webElementGuid>8413be39-ae57-4fcd-8c78-21585c355593</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +77,7 @@
       <name>role</name>
       <type>Main</type>
       <value>tab</value>
-      <webElementGuid>157393d5-04ed-4dc6-ab3d-73950d2db505</webElementGuid>
+      <webElementGuid>0972ac36-18b7-4881-8a3d-0ca40b26de77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +85,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>0f9c3519-2624-492c-aa3f-1579451fdff0</webElementGuid>
+      <webElementGuid>355e3150-61b3-4beb-9ecb-d712f5b190de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +93,7 @@
       <name>data-p-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e1ccb2c7-7f22-4ede-9095-295376859a76</webElementGuid>
+      <webElementGuid>bb42f48f-2cb1-46fe-a655-272b7c8357ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +101,7 @@
       <name>data-p-active</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b4015cd1-b889-4959-abff-1826a8562652</webElementGuid>
+      <webElementGuid>731df030-5502-4a60-8bd6-e01333408b0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +109,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>9142a589-e5e2-4e5f-9a3b-16ce3cb3ee1c</webElementGuid>
+      <webElementGuid>e938f93f-56f5-44b6-b9b6-33462f990530</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -109,7 +117,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Auditoría</value>
-      <webElementGuid>283dff75-738c-47f2-8f45-b93d8b4a2f16</webElementGuid>
+      <webElementGuid>98a20f2a-3975-4726-af99-37786c1af135</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +125,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;pn_id_6_tab_2&quot;)</value>
-      <webElementGuid>41dfaa40-520e-4b27-a61d-73aa02cb2ee8</webElementGuid>
+      <webElementGuid>1e184b63-aab7-47f3-bc85-26a5a20706c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -125,7 +133,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//p-tab[@id='pn_id_6_tab_2']</value>
-      <webElementGuid>7a207889-0cd0-463f-b653-0e6ec9e9ddee</webElementGuid>
+      <webElementGuid>6691041e-407c-472f-ba0d-e144c8ac0801</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +141,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p-tabs[@id='pn_id_6']/p-tablist/div/div/p-tab[3]</value>
-      <webElementGuid>17f78d49-7653-4e65-afdb-84c238df0537</webElementGuid>
+      <webElementGuid>e655c159-4d83-495f-bc93-799a4d48dcb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Categorias'])[1]/following::p-tab[1]</value>
-      <webElementGuid>9a16efbc-f672-48f4-a00a-5fa4c9139a00</webElementGuid>
+      <webElementGuid>e24779c2-2944-4897-a46f-70a89ae21235</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,15 +157,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[1]/following::p-tab[2]</value>
-      <webElementGuid>29aa9f77-4638-4bca-9420-f8a51de57a45</webElementGuid>
+      <webElementGuid>b56d7209-c0c8-48ff-95dc-2d2139f94396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buscar'])[1]/preceding::p-tab[1]</value>
-      <webElementGuid>10f22f81-6806-404a-8542-e9414967971d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuarios'])[2]/preceding::p-tab[1]</value>
+      <webElementGuid>3daa395b-e148-448e-a1a7-e96e5ab29a45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre'])[1]/preceding::p-tab[1]</value>
-      <webElementGuid>77bbda54-b6ae-4c9c-84b2-8825fa3060dc</webElementGuid>
+      <webElementGuid>c1f7b266-2cdf-454f-9271-80f4017613e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Auditoría']/parent::*</value>
-      <webElementGuid>1154ea4d-7610-4f74-aa97-846c75d861e7</webElementGuid>
+      <webElementGuid>82a7874f-2a92-42c5-812b-b701a6abcf8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +189,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p-tab[3]</value>
-      <webElementGuid>3b5611f7-6abf-40d1-8d76-24df3ab5efa0</webElementGuid>
+      <webElementGuid>17241346-367b-4f25-a1ef-019ce2d9efc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,6 +197,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p-tab[@id = 'pn_id_6_tab_2' and (text() = 'Auditoría' or . = 'Auditoría')]</value>
-      <webElementGuid>4b24aca6-902c-42d2-baac-9131ef3b44ee</webElementGuid>
+      <webElementGuid>0fb19c04-4715-4ce2-9fec-17224d9769cc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

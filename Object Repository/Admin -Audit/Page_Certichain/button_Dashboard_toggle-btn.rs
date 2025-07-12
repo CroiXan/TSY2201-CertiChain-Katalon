@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Dashboard_toggle-btn</name>
    <tag></tag>
-   <elementGuidId>e4d11748-cdfc-49f4-be3d-2f3fb84771a8</elementGuidId>
+   <elementGuidId>71aa2c15-3402-4d33-a448-9e23f7621fda</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>43037b67-3b69-4325-8065-27d62d3b4799</webElementGuid>
+      <webElementGuid>42fe517f-b780-4410-b0d1-db64972e12d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>toggle-btn</value>
-      <webElementGuid>f5c21462-513a-4990-b0a9-beefe25d31eb</webElementGuid>
+      <webElementGuid>ff604108-049e-4e72-abff-27b72a72532c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container&quot;]/button[@class=&quot;toggle-btn&quot;]</value>
-      <webElementGuid>e2a03a9d-dcef-40fa-a0b8-3e30534b7900</webElementGuid>
+      <webElementGuid>7c23d5fa-fae5-4de3-a680-d1ce76584c0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/preceding::button[1]</value>
-      <webElementGuid>1aaf34ac-aa2f-444e-a16b-63ef975d929d</webElementGuid>
+      <webElementGuid>72b80638-3b97-4577-8f49-c685e3ee39d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>2ce2b808-eeb3-4bd8-b11b-cceeb1961242</webElementGuid>
+      <webElementGuid>b8ebc0fe-4cd9-43dc-85b4-1da819b0930a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
