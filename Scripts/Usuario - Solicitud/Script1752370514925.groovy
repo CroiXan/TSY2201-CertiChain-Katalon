@@ -17,5 +17,39 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
 
+WebUI.navigateToUrl(GlobalVariable.URL)
+
+WebUI.setText(findTestObject('Object Repository/User/Page_Certichain/input_Usuario o Email_username'), 'user1')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/User/Page_Certichain/input_Contrasea_password'), 'jXQUk1vFliNSakaNwZgtmg==')
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/span_Iniciar Sesin'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/button_Dashboard_toggle-btn'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/a_Usuarios'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/i_Dashboard_pi pi-chevron-left ng-star-inserted'))
+
+WebUI.delay(3)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/span_Seleccione una institucin'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/span_institucion2'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/span_Seleccione un documento'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/span_Documento de Prueba'))
+
+WebUI.click(findTestObject('Object Repository/User/Page_Certichain/button_Solicitar documento'))
+
+WebUI.delay(2)
+
+WebUI.takeScreenshot()
+
+WebUI.closeBrowser()
 

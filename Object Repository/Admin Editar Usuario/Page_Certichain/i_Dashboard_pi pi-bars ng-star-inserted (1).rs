@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dashboard_pi pi-bars ng-star-inserted (1)</name>
+   <tag></tag>
+   <elementGuidId>c4f11024-6da8-41d7-a780-955ea0f020e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-bars.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e7aa4d4e-4535-461b-9e5f-9b8637a199ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-bars ng-star-inserted</value>
+      <webElementGuid>69f007a8-373a-4dc4-867e-d0f40678fa8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container&quot;]/button[@class=&quot;toggle-btn&quot;]/i[@class=&quot;pi pi-bars ng-star-inserted&quot;]</value>
+      <webElementGuid>cec9bd90-a2c1-4392-9c6b-2cdc51251554</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>4dbb664f-79df-4f3f-ae71-b20a94563d4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

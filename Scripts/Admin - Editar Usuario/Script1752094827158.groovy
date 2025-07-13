@@ -16,7 +16,6 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
-import com.kms.katalon.core.util.KeywordUtil
 
 String path = ''
 
@@ -24,61 +23,43 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.URL)
 
-WebUI.setText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Usuario o Email_username'), 'admin')
+WebUI.setText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Usuario o Email_username (1)'), 
+    'admin')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password (1)'), 
     'cx1a8fEuUdO1Nly0T1GAYQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password'), Keys.chord(
+WebUI.sendKeys(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Contrasea_password (1)'), Keys.chord(
         Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-bars ng-star-inserted'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-bars ng-star-inserted (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Administracion'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Administracion (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-bars ng-star-inserted'))
-
-WebUI.delay(5)
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
-
-WebUI.delay(2)
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion'))
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/li_UsuarioTest'))
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion Publica'))
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_TiposUsuarioPrueba'))
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Activo_ng-untouched ng-pristine ng-valid'))
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Aplicar Cambios'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/i_Dashboard_pi pi-bars ng-star-inserted (1)'))
 
 WebUI.delay(3)
 
-path = WebUI.takeScreenshot()
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Cancelar'))
+WebUI.delay(2)
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/a_Editar'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_UsuarioTest'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/li_UsuarioTest (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion_1'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_Institucion Publica (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_TiposUsuarioPrueba_1'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/span_TiposUsuarioPrueba (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/li_Institucion Privada'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Activo_ng-untouched ng-pristine ng-valid (1)'))
 
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/input_Activo_ng-untouched ng-pristine ng-valid'))
-
-WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Aplicar Cambios'))
+WebUI.click(findTestObject('Object Repository/Admin Editar Usuario/Page_Certichain/button_Aplicar Cambios (1)'))
 
 WebUI.delay(3)
 
 path = WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
+
 

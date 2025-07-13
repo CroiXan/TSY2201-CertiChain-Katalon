@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Dashboard_pi pi-chevron-left ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>07e5bf5d-71c1-43e7-8a26-c6203368daba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-chevron-left.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>45e25ff8-5e63-40a9-a5c8-9e3338daa202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-chevron-left ng-star-inserted</value>
+      <webElementGuid>6daf57da-fc42-4e65-8b08-baa7f7c39fc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid main-content&quot;]/app-sidebar[1]/div[@class=&quot;sidebar-container sidebar-open&quot;]/button[@class=&quot;toggle-btn&quot;]/i[@class=&quot;pi pi-chevron-left ng-star-inserted&quot;]</value>
+      <webElementGuid>05b16428-3cdf-4b76-99c7-a51071800a50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>801c12d0-33be-440d-a8cc-2486387508f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
