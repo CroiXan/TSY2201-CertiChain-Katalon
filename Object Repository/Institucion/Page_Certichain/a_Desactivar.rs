@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Desactivar</name>
+   <tag></tag>
+   <elementGuidId>ee8c61db-d339-4a26-9e96-2defe9f7e26a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.p-link.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pn_id_1-table']/tbody/tr/td[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;686b37ee01f0d474cb93d18d Certificado de Prueba Activo Desactivar&quot;i] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5f647371-dbab-4a3f-9d31-9d92e6fc069e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>27370ce7-9b91-4e0d-9d95-58f46e9f9700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-link ng-star-inserted</value>
+      <webElementGuid>a6237d7b-3bd7-4ce9-bbc4-25af93fab79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Desactivar </value>
+      <webElementGuid>45bab3b5-f5e4-4577-a94f-1f753add5ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_1-table&quot;)/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;p-link ng-star-inserted&quot;]</value>
+      <webElementGuid>5a2cab84-8d9f-429a-9425-6d24d9434663</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pn_id_1-table']/tbody/tr/td[4]/a</value>
+      <webElementGuid>fd3b1e0a-d4d2-423c-907c-6031fe684211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Desactivar')]</value>
+      <webElementGuid>95a2842d-d0b7-4751-acd0-761210e4b8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[1]/following::a[1]</value>
+      <webElementGuid>9c71024b-6ede-4ba8-9cb3-270b60b3372f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificado de Prueba'])[1]/following::a[1]</value>
+      <webElementGuid>817fa88d-6481-4edb-989a-632efa734508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='certificado prueba 2'])[1]/preceding::a[1]</value>
+      <webElementGuid>ef58e506-0d7e-4e30-a297-5d4a2440c05b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activo'])[2]/preceding::a[1]</value>
+      <webElementGuid>b5f5e92a-20c7-4564-a7bf-1ed3ea13b156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Desactivar']/parent::*</value>
+      <webElementGuid>0e344235-662d-48cf-9b80-0fc48c7f236b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>000629cc-ab4c-4bbe-9a84-4078681b1e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>a66c80db-224b-4cb5-90e1-af8ebe04d69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = ' Desactivar ' or . = ' Desactivar ')]</value>
+      <webElementGuid>49db28ac-f235-4dcc-9479-c2eacd40cd98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

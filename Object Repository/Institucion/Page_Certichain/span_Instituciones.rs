@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Instituciones</name>
+   <tag></tag>
+   <elementGuidId>e2b5cff1-600f-4710-8165-5d6922019685</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pn_id_2_1 > div.p-menu-item-content > a.p-ripple.p-menu-item-link.ng-star-inserted > span.p-menu-item-label.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='pn_id_2_1']/div/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Instituciones&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0983ddfd-30c0-4cf6-b503-b70e12db4404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-menu-item-label ng-star-inserted</value>
+      <webElementGuid>8d95434a-4195-489e-9b2c-57b4830665e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Instituciones</value>
+      <webElementGuid>06dfd222-c014-4e77-90fd-d1f098992770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pn_id_2_1&quot;)/div[@class=&quot;p-menu-item-content&quot;]/a[@class=&quot;p-ripple p-menu-item-link ng-star-inserted&quot;]/span[@class=&quot;p-menu-item-label ng-star-inserted&quot;]</value>
+      <webElementGuid>7be92052-4161-4bf9-911a-eaab314115ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='pn_id_2_1']/div/a/span[2]</value>
+      <webElementGuid>ba9eda20-dfc4-435b-b802-813834979a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::span[2]</value>
+      <webElementGuid>08b87ade-253f-4871-868a-03dcb4258bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::span[2]</value>
+      <webElementGuid>921a47ef-b901-4e19-888c-3c3411c21b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::span[3]</value>
+      <webElementGuid>7faf1ce0-5666-4cbc-a868-d63c3c16f0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Instituciones']/parent::*</value>
+      <webElementGuid>b87db91a-bfc8-44bb-9262-f98fb36a6ec0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a/span[2]</value>
+      <webElementGuid>e51ab23f-1d00-4aaa-ae4f-590eaf6de2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Instituciones' or . = 'Instituciones')]</value>
+      <webElementGuid>d05ee55c-5954-49d5-b02a-c0d081845522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

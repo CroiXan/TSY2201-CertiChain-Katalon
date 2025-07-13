@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Institucion - Gestion Tipo de documento</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4e8b3bb-6d3d-42c0-aeec-07fa3f650530</testCaseGuid>
+</TestCaseEntity>

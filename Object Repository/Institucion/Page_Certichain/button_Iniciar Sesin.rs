@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Iniciar Sesin</name>
+   <tag></tag>
+   <elementGuidId>fa65ef85-3d99-42a6-a671-f02bd0824261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.auth-button.w-full.p-button.p-component</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Iniciar Sesión&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bbaa5e39-d2a0-448a-bc2c-7307b6a5ed78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>974be7f3-e1c8-4e91-a829-264cdfd3da34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>label</name>
+      <type>Main</type>
+      <value>Iniciar Sesión</value>
+      <webElementGuid>b7e30937-4edd-4904-b9d7-443231457fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth-button w-full p-button p-component</value>
+      <webElementGuid>e78d154e-3e1b-43c1-8ced-1348167d969d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-label</name>
+      <type>Main</type>
+      <value>Iniciar Sesión</value>
+      <webElementGuid>98ef8ad4-8124-43fe-b9b7-822cdb87784a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1f1a159b-b974-45b8-a152-2f7aa905ec45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iniciar Sesión</value>
+      <webElementGuid>eeaa101c-6c02-4b8e-ba68-e19f9ab1b3c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;grid&quot;]/app-login[1]/div[@class=&quot;auth-container&quot;]/p-card[1]/div[@class=&quot;auth-card p-card p-component&quot;]/div[@class=&quot;p-card-body&quot;]/div[@class=&quot;p-card-content&quot;]/div[@class=&quot;auth-form&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;form-field button-container&quot;]/button[@class=&quot;auth-button w-full p-button p-component&quot;]</value>
+      <webElementGuid>0801e362-57b6-4c48-82a5-6c425f0d3d11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>9ba852d5-c76e-42e6-8375-95e21b4e598b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contraseña'])[1]/following::button[1]</value>
+      <webElementGuid>f8dc3e66-5009-4e35-b887-07687b4011a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Usuario o Email'])[1]/following::button[1]</value>
+      <webElementGuid>c1e670af-a4eb-4d4c-8a20-082cd6698f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿No tienes cuenta? Regístrate'])[1]/preceding::button[1]</value>
+      <webElementGuid>c60fda26-30d2-45b3-a3cc-30be1f151bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>bf73331a-be0f-4f1b-abdc-e5f7c1def69c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Iniciar Sesión' or . = 'Iniciar Sesión')]</value>
+      <webElementGuid>dccc4649-5f32-49e9-9500-015cef343be3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
